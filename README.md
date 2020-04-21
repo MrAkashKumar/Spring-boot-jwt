@@ -36,9 +36,15 @@ Request body ::::>>>>
 Response :::::>>>>>
 
 {
-    "jwtToken":          "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJha2FzaEt1bWFyIiwiZXhwIjoxNTg3NDg0MTIzLCJpYXQiOjE1ODc0NjYxMjN9.CenrD4E4ZGNnNGH8MqkZi154PC1FYZP-b3esiaLSj7xr9IS6uKrnsOcO48xknezLtzB2tPeWAiNGHD4QAXtkWg"
+  
+  		"jwtToken":          	
+"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJha2FzaEt1bWFyIiwiZXhwIjoxNTg3NDg0MTIzLCJpYXQiOjE1ODc0NjYxMjN9.CenrD4E4ZGNnNGH8MqkZi154PC1FYZP-b3esiaLSj7xr9IS6uKrnsOcO48xknezLtzB2tPeWAiNGHD4QAXtkWg"
+
 }
 
 
-Image path for more desc of API :::::::>>> Spring-boot-jwt/src/main/resources/templates/responseImg.png
- 
+
+
+	:::::::::::::::::::::Image path for more desc of API ::::::::::::::::::::::::: 
+	
+	Spring-boot-jwt/src/main/resources/templates/responseImg.png
