@@ -1,4 +1,4 @@
-# Spring-boot-jwt
+# Spring-boot-jwt based Spring boot
 it is JSON Web Token Example using IntelliJ IDEA IDE.
 
 
@@ -12,12 +12,12 @@ IDE ::
 IntelliJ IDEA
 
 technologies ::
-JAVA8
-Spring Security
-JwtToken V0.9
-Dev-tools
-lombok
-Maven
+JAVA8,
+Spring Security,
+JwtToken V0.9,
+Dev-tools,
+lombok,
+Maven,
 
 
                                         for Testing using POSTMAN
