@@ -1,4 +1,4 @@
-# Spring-boot-jwt based Spring boot
+# Spring-boot-jwt-mysql-jpa based Spring boot
 it is JSON Web Token Example using IntelliJ IDEA IDE.
 
 
